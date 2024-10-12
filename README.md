@@ -1,2 +1,3 @@
 # next-ts-starter
-Nextjs starter kit templete
+
+Nextjs starter kit template
